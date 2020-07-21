@@ -10,3 +10,4 @@ The tutorial of this project will be posted on Medium soon.
 LinkedIn - https://www.linkedin.com/posts/activity-6690662895769964544-Mrfq
 
 ! [Gesture Driving] (Hand Gesture.png)
+! [Gesture Driving] (Gesture.png)
