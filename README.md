@@ -5,8 +5,10 @@ Hey everyone, this is my project on Navigation by Hand Localization using CSRT.
 The awesome thing about this is that is doesn't uses any external equipment to be wear by the user. It works simply by tracking the movement of the object inside its bounding box.
 Some more features are yet to be added.
 
-To copy this repo fork it.
+Please give star to this, and share with your connections. To copy this repo fork it.
 
 The tutorial of this project will be posted on Medium soon.
 
 LinkedIn - https://www.linkedin.com/posts/activity-6690662895769964544-Mrfq
+
+![](https://github.com/malraharsh/Gesture-Controlled-Driving/blob/master/Hand%20Gesture.png)
