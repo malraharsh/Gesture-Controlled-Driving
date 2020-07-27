@@ -1,5 +1,7 @@
 # Gesture-Controlled-Driving
 
+NOTE: This code is more updated - https://github.com/malraharsh/Gesture-Controlled-Driving-Single-Tracker
+
 This is my project on Navigation by Hand Localization using CSRT.
 
 # Tutorial (Short)
